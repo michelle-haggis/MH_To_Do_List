@@ -1,0 +1,7 @@
+:root {
+    --background: hsl(235, 100%, 9%) ;
+    --secondaryBackground:	hsl(234, 52%, 19%);
+    --text: hsl(0, 0%, 100%);
+    --purple: hsl(235, 100%, 75%);
+    --teal: hsl(176, 99%, 57%);
+}
