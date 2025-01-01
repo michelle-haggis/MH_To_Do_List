@@ -89,6 +89,7 @@ button{
     width: 50px;
     height: 50px;
     border-radius: 50%;
+    border: 1px solid var(--purple);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -97,5 +98,4 @@ button{
     font-size: 30px;
     font-weight: bold;
     outline: none;
-
 }
